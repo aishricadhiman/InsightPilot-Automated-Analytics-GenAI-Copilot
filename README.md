@@ -1,6 +1,6 @@
 # InsightPilot — Automated Analytics & GenAI Copilot
 
-> An end-to-end analytics automation project that transforms raw operational data into validated business insights and allows users to explore those insights through natural-language questions.
+> git
 
 InsightPilot demonstrates how repetitive parts of a traditional data analytics workflow can be automated:
 
