@@ -1,0 +1,301 @@
+admission_month,department,total_admissions,avg_length_of_stay
+2024-01,Emergency,983,2.69
+2024-01,General Medicine,691,4.89
+2024-01,Cardiology,477,5.49
+2024-01,Orthopedics,391,4.53
+2024-01,Pulmonology,284,5.15
+2024-01,Neurology,281,6.23
+2024-01,Oncology,256,6.31
+2024-01,Surgery,241,5.12
+2024-01,Gastroenterology,220,4.57
+2024-01,Nephrology,193,5.5
+2024-02,Emergency,924,2.68
+2024-02,General Medicine,673,4.74
+2024-02,Cardiology,423,5.63
+2024-02,Orthopedics,377,4.64
+2024-02,Neurology,259,5.85
+2024-02,Oncology,239,6.52
+2024-02,Gastroenterology,233,4.18
+2024-02,Pulmonology,233,5.06
+2024-02,Surgery,221,5.3
+2024-02,Nephrology,192,6.25
+2024-03,Emergency,1006,2.73
+2024-03,General Medicine,699,4.84
+2024-03,Cardiology,476,5.61
+2024-03,Orthopedics,430,4.59
+2024-03,Pulmonology,310,5.35
+2024-03,Neurology,269,5.94
+2024-03,Oncology,238,5.55
+2024-03,Gastroenterology,234,4.44
+2024-03,Surgery,233,5.41
+2024-03,Nephrology,197,5.71
+2024-04,Emergency,999,2.73
+2024-04,General Medicine,670,4.94
+2024-04,Orthopedics,427,4.31
+2024-04,Cardiology,393,5.47
+2024-04,Pulmonology,280,5.33
+2024-04,Neurology,273,6.41
+2024-04,Surgery,249,5.69
+2024-04,Gastroenterology,226,4.0
+2024-04,Oncology,220,5.67
+2024-04,Nephrology,208,5.79
+2024-05,Emergency,1031,2.65
+2024-05,General Medicine,703,4.74
+2024-05,Cardiology,421,5.29
+2024-05,Orthopedics,417,4.63
+2024-05,Pulmonology,318,5.25
+2024-05,Neurology,279,5.81
+2024-05,Surgery,261,5.69
+2024-05,Gastroenterology,244,4.05
+2024-05,Oncology,238,6.29
+2024-05,Nephrology,191,5.27
+2024-06,Emergency,967,2.78
+2024-06,General Medicine,680,4.97
+2024-06,Cardiology,420,5.67
+2024-06,Orthopedics,370,4.51
+2024-06,Neurology,288,6.14
+2024-06,Pulmonology,288,5.14
+2024-06,Gastroenterology,249,4.33
+2024-06,Surgery,246,5.38
+2024-06,Oncology,246,5.67
+2024-06,Nephrology,199,5.7
+2024-07,Emergency,958,2.81
+2024-07,General Medicine,759,4.93
+2024-07,Cardiology,439,5.67
+2024-07,Orthopedics,401,4.92
+2024-07,Pulmonology,293,5.24
+2024-07,Neurology,289,6.05
+2024-07,Gastroenterology,244,3.99
+2024-07,Surgery,243,5.63
+2024-07,Oncology,238,5.65
+2024-07,Nephrology,207,5.55
+2024-08,Emergency,1036,2.71
+2024-08,General Medicine,688,4.94
+2024-08,Cardiology,445,5.42
+2024-08,Orthopedics,439,4.42
+2024-08,Neurology,302,5.82
+2024-08,Pulmonology,297,5.14
+2024-08,Oncology,263,6.12
+2024-08,Surgery,252,5.6
+2024-08,Gastroenterology,240,4.41
+2024-08,Nephrology,198,5.78
+2024-09,Emergency,988,2.75
+2024-09,General Medicine,641,5.09
+2024-09,Cardiology,470,5.51
+2024-09,Orthopedics,363,4.51
+2024-09,Neurology,312,6.36
+2024-09,Pulmonology,266,5.48
+2024-09,Gastroenterology,251,3.89
+2024-09,Oncology,242,6.07
+2024-09,Surgery,230,5.43
+2024-09,Nephrology,187,5.64
+2024-10,Emergency,1033,2.8
+2024-10,General Medicine,729,4.89
+2024-10,Cardiology,415,5.51
+2024-10,Orthopedics,402,4.43
+2024-10,Neurology,283,6.13
+2024-10,Pulmonology,277,5.18
+2024-10,Gastroenterology,271,4.32
+2024-10,Surgery,255,5.33
+2024-10,Oncology,230,5.78
+2024-10,Nephrology,200,5.59
+2024-11,Emergency,998,2.81
+2024-11,General Medicine,682,4.87
+2024-11,Cardiology,432,5.62
+2024-11,Orthopedics,406,4.31
+2024-11,Pulmonology,288,5.31
+2024-11,Neurology,265,6.08
+2024-11,Gastroenterology,236,4.4
+2024-11,Surgery,230,5.44
+2024-11,Oncology,227,5.82
+2024-11,Nephrology,206,6.26
+2024-12,Emergency,1001,2.74
+2024-12,General Medicine,677,4.77
+2024-12,Cardiology,498,5.73
+2024-12,Orthopedics,415,4.29
+2024-12,Neurology,296,5.61
+2024-12,Oncology,280,6.01
+2024-12,Pulmonology,277,5.53
+2024-12,Surgery,239,5.54
+2024-12,Gastroenterology,221,4.3
+2024-12,Nephrology,206,6.02
+2025-01,Emergency,973,2.79
+2025-01,General Medicine,700,4.95
+2025-01,Cardiology,458,5.26
+2025-01,Orthopedics,408,4.64
+2025-01,Neurology,310,6.29
+2025-01,Pulmonology,288,5.09
+2025-01,Surgery,258,5.22
+2025-01,Gastroenterology,252,4.58
+2025-01,Oncology,235,5.68
+2025-01,Nephrology,195,5.73
+2025-02,Emergency,915,2.75
+2025-02,General Medicine,567,4.94
+2025-02,Cardiology,409,5.55
+2025-02,Orthopedics,383,4.49
+2025-02,Neurology,267,5.8
+2025-02,Pulmonology,259,5.4
+2025-02,Gastroenterology,241,4.28
+2025-02,Surgery,213,5.89
+2025-02,Oncology,210,5.55
+2025-02,Nephrology,165,5.75
+2025-03,Emergency,946,2.78
+2025-03,General Medicine,715,4.91
+2025-03,Cardiology,396,5.52
+2025-03,Orthopedics,386,4.27
+2025-03,Pulmonology,299,5.37
+2025-03,Neurology,277,6.02
+2025-03,Surgery,249,5.58
+2025-03,Oncology,247,5.83
+2025-03,Gastroenterology,228,4.24
+2025-03,Nephrology,199,5.97
+2025-04,Emergency,1046,2.81
+2025-04,General Medicine,663,5.09
+2025-04,Cardiology,429,5.41
+2025-04,Orthopedics,382,4.35
+2025-04,Neurology,312,6.52
+2025-04,Pulmonology,286,5.51
+2025-04,Oncology,267,5.82
+2025-04,Surgery,247,5.05
+2025-04,Gastroenterology,242,4.11
+2025-04,Nephrology,191,5.58
+2025-05,Emergency,1010,2.8
+2025-05,General Medicine,703,5.03
+2025-05,Cardiology,461,5.6
+2025-05,Orthopedics,411,4.45
+2025-05,Neurology,305,6.03
+2025-05,Pulmonology,277,5.17
+2025-05,Oncology,247,5.8
+2025-05,Surgery,238,5.79
+2025-05,Gastroenterology,225,4.28
+2025-05,Nephrology,209,5.59
+2025-06,Emergency,926,2.75
+2025-06,General Medicine,659,5.1
+2025-06,Cardiology,403,5.78
+2025-06,Orthopedics,398,4.44
+2025-06,Neurology,272,6.1
+2025-06,Oncology,261,6.34
+2025-06,Pulmonology,254,5.37
+2025-06,Gastroenterology,246,4.25
+2025-06,Surgery,214,5.84
+2025-06,Nephrology,188,5.7
+2025-07,Emergency,1050,2.74
+2025-07,General Medicine,649,4.8
+2025-07,Cardiology,442,5.49
+2025-07,Orthopedics,398,4.43
+2025-07,Neurology,300,5.75
+2025-07,Oncology,251,5.79
+2025-07,Gastroenterology,249,4.27
+2025-07,Pulmonology,233,5.39
+2025-07,Nephrology,225,6.1
+2025-07,Surgery,209,5.32
+2025-08,Emergency,978,2.8
+2025-08,General Medicine,653,4.78
+2025-08,Cardiology,457,5.48
+2025-08,Orthopedics,410,4.49
+2025-08,Pulmonology,274,6.04
+2025-08,Neurology,257,6.51
+2025-08,Surgery,246,5.76
+2025-08,Oncology,244,5.73
+2025-08,Gastroenterology,232,4.19
+2025-08,Nephrology,212,5.64
+2025-09,Emergency,947,2.67
+2025-09,General Medicine,659,4.81
+2025-09,Cardiology,453,5.52
+2025-09,Orthopedics,410,4.64
+2025-09,Pulmonology,301,5.36
+2025-09,Gastroenterology,280,4.35
+2025-09,Neurology,279,6.12
+2025-09,Surgery,244,5.57
+2025-09,Oncology,214,5.5
+2025-09,Nephrology,200,5.85
+2025-10,Emergency,1058,2.77
+2025-10,General Medicine,677,4.98
+2025-10,Cardiology,467,5.42
+2025-10,Orthopedics,426,4.67
+2025-10,Pulmonology,294,5.19
+2025-10,Neurology,288,6.16
+2025-10,Gastroenterology,265,4.27
+2025-10,Oncology,246,5.6
+2025-10,Surgery,230,5.39
+2025-10,Nephrology,207,5.6
+2025-11,Emergency,975,2.71
+2025-11,General Medicine,692,5.02
+2025-11,Cardiology,424,5.73
+2025-11,Orthopedics,396,4.33
+2025-11,Neurology,284,6.04
+2025-11,Pulmonology,268,5.43
+2025-11,Oncology,263,6.0
+2025-11,Surgery,235,5.8
+2025-11,Gastroenterology,227,3.95
+2025-11,Nephrology,186,5.86
+2025-12,Emergency,1040,2.8
+2025-12,General Medicine,684,4.99
+2025-12,Orthopedics,442,4.69
+2025-12,Cardiology,440,5.64
+2025-12,Neurology,293,5.86
+2025-12,Pulmonology,279,5.29
+2025-12,Surgery,245,5.41
+2025-12,Oncology,239,6.09
+2025-12,Gastroenterology,239,4.11
+2025-12,Nephrology,234,6.18
+2026-01,Emergency,1051,3.26
+2026-01,General Medicine,681,4.83
+2026-01,Cardiology,463,5.38
+2026-01,Orthopedics,408,4.69
+2026-01,Pulmonology,289,5.54
+2026-01,Neurology,281,5.96
+2026-01,Oncology,273,5.98
+2026-01,Surgery,264,5.5
+2026-01,Gastroenterology,247,4.17
+2026-01,Nephrology,192,5.38
+2026-02,Emergency,925,3.23
+2026-02,General Medicine,605,4.85
+2026-02,Cardiology,449,5.53
+2026-02,Orthopedics,375,4.44
+2026-02,Pulmonology,257,5.73
+2026-02,Neurology,244,6.17
+2026-02,Oncology,232,5.49
+2026-02,Surgery,223,5.88
+2026-02,Gastroenterology,216,4.0
+2026-02,Nephrology,180,5.56
+2026-03,Emergency,1002,3.36
+2026-03,General Medicine,654,5.05
+2026-03,Cardiology,459,5.43
+2026-03,Orthopedics,389,4.42
+2026-03,Pulmonology,310,5.73
+2026-03,Surgery,263,5.44
+2026-03,Oncology,261,5.98
+2026-03,Neurology,260,6.31
+2026-03,Gastroenterology,247,4.11
+2026-03,Nephrology,232,6.09
+2026-04,Emergency,948,3.18
+2026-04,General Medicine,682,4.65
+2026-04,Cardiology,430,5.83
+2026-04,Orthopedics,384,4.44
+2026-04,Neurology,292,5.94
+2026-04,Pulmonology,266,5.8
+2026-04,Oncology,245,5.96
+2026-04,Surgery,228,5.35
+2026-04,Gastroenterology,211,4.13
+2026-04,Nephrology,186,5.66
+2026-05,Emergency,1020,3.27
+2026-05,General Medicine,688,4.94
+2026-05,Orthopedics,435,4.45
+2026-05,Cardiology,428,5.33
+2026-05,Pulmonology,300,5.79
+2026-05,Neurology,283,5.72
+2026-05,Oncology,277,5.75
+2026-05,Gastroenterology,226,4.31
+2026-05,Surgery,218,5.13
+2026-05,Nephrology,200,5.89
+2026-06,Emergency,1043,3.42
+2026-06,General Medicine,654,4.96
+2026-06,Cardiology,436,5.41
+2026-06,Orthopedics,402,4.74
+2026-06,Neurology,294,5.91
+2026-06,Gastroenterology,265,4.18
+2026-06,Pulmonology,258,6.14
+2026-06,Oncology,251,6.0
+2026-06,Surgery,237,5.76
+2026-06,Nephrology,202,5.58

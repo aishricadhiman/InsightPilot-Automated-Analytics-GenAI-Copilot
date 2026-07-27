@@ -1,0 +1,11 @@
+department,total_admissions,avg_length_of_stay,min_length_of_stay,max_length_of_stay
+Neurology,8494,6.05,1,30
+Oncology,7380,5.89,1,30
+Nephrology,5987,5.77,1,30
+Cardiology,13213,5.53,1,30
+Surgery,7161,5.51,1,28
+Pulmonology,8403,5.41,1,28
+General Medicine,20277,4.91,1,25
+Orthopedics,12081,4.51,1,26
+Gastroenterology,7207,4.22,1,23
+Emergency,29777,2.86,1,17

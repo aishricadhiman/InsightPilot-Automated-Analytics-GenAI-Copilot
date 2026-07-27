@@ -1,0 +1,31 @@
+department,admission_type,total_admissions,avg_length_of_stay
+Cardiology,Elective,5616,5.42
+Cardiology,Emergency,5555,5.31
+Cardiology,Transfer,2042,6.45
+Emergency,Emergency,27074,2.79
+Emergency,Transfer,2083,3.85
+Emergency,Elective,620,2.77
+Gastroenterology,Elective,3082,4.09
+Gastroenterology,Emergency,3048,4.01
+Gastroenterology,Transfer,1077,5.21
+General Medicine,Elective,8695,4.71
+General Medicine,Emergency,8485,4.77
+General Medicine,Transfer,3097,5.85
+Nephrology,Elective,2565,5.66
+Nephrology,Emergency,2516,5.51
+Nephrology,Transfer,906,6.78
+Neurology,Elective,3644,5.94
+Neurology,Emergency,3580,5.87
+Neurology,Transfer,1270,6.91
+Oncology,Elective,5042,5.71
+Oncology,Emergency,1460,5.83
+Oncology,Transfer,878,6.98
+Orthopedics,Elective,8276,4.39
+Orthopedics,Emergency,2391,4.41
+Orthopedics,Transfer,1414,5.37
+Pulmonology,Emergency,3593,5.26
+Pulmonology,Elective,3535,5.28
+Pulmonology,Transfer,1275,6.2
+Surgery,Elective,4986,5.41
+Surgery,Emergency,1420,5.3
+Surgery,Transfer,755,6.56

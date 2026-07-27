@@ -1,0 +1,4 @@
+admission_type,eligible_admissions,readmitted_admissions,readmission_rate_pct
+Emergency,58230.0,7136.0,12.25
+Transfer,14550.0,1418.0,9.75
+Elective,45284.0,4226.0,9.33

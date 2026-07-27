@@ -1,0 +1,20 @@
+{
+  "patients_missing_insurance": 700,
+  "patients_missing_gender": 120,
+  "patients_invalid_age": 25,
+  "admissions_inconsistent_department": 1100,
+  "admissions_missing_bed_type": 350,
+  "admissions_discharge_before_admission": 45,
+  "admissions_negative_los": 35,
+  "admissions_orphan_patient_fk": 20,
+  "admissions_duplicate_rows_appended": 160,
+  "readmissions_orphan_admission_fk": 18,
+  "readmissions_over_30_days": 22,
+  "staffing_zero_staff": 50,
+  "staffing_missing_patient_count": 90,
+  "staffing_inconsistent_department": 300,
+  "costs_missing_covered_amount": 140,
+  "costs_extreme_billing_outliers": 20,
+  "costs_invalid_oop": 25,
+  "costs_orphan_admission_fk_appended": 12
+}

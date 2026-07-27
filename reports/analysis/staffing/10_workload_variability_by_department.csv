@@ -1,0 +1,11 @@
+department,avg_observation_ratio,ratio_std_dev,min_ratio,max_ratio
+Gastroenterology,3.54,1.9,0.75,28.0
+Pulmonology,3.74,1.87,0.6,29.0
+Nephrology,3.32,1.85,0.7,23.0
+Neurology,3.39,1.5,1.0,30.0
+Orthopedics,3.46,1.27,1.0,19.0
+Oncology,3.01,1.21,0.86,14.0
+Emergency,4.69,1.15,2.15,14.25
+Cardiology,3.56,1.05,1.08,10.5
+Surgery,3.26,1.01,1.08,11.5
+General Medicine,4.09,0.99,1.67,13.0

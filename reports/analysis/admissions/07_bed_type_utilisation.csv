@@ -1,0 +1,5 @@
+bed_type,total_admissions,utilisation_pct,avg_length_of_stay
+General,83718,69.78,4.31
+ICU,20304,16.92,6.3
+Observation,15608,13.01,4.25
+Unknown,350,0.29,4.69

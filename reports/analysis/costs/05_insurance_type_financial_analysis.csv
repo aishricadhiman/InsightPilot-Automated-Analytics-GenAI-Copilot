@@ -1,0 +1,6 @@
+insurance_type,admissions,total_billed_amount,avg_cost_per_admission,insurance_coverage_pct,out_of_pocket_pct,avg_out_of_pocket
+Unknown,1048,11589181.61,11058.38,76.58,23.42,2589.56
+Private,41946,459137479.78,10945.92,85.62,14.38,1573.93
+Government,52310,572174721.03,10938.15,77.75,22.25,2434.04
+Employer,15211,164995173.79,10847.1,89.8,10.2,1106.57
+Self-pay,9465,102522342.03,10831.73,10.08,89.92,9740.13

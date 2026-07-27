@@ -1,0 +1,4 @@
+admission_type,admissions,total_billed_amount,avg_cost_per_admission,avg_out_of_pocket
+Elective,46061,587901932.23,12763.55,2969.69
+Transfer,14797,172500224.67,11657.78,2665.7
+Emergency,59122,550016741.34,9303.08,2179.38

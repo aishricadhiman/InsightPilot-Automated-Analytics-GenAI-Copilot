@@ -1,0 +1,52 @@
+{
+  "patients.csv": {
+    "grain": "One row per patient before deliberate quality issues.",
+    "columns": {
+      "patient_id": "Synthetic patient identifier.",
+      "age": "Patient age in years.",
+      "gender": "Female, Male, Other; some missing values injected.",
+      "insurance_type": "Government, Private, Employer, Self-pay; some missing values injected."
+    }
+  },
+  "admissions.csv": {
+    "grain": "One row per hospital admission; deliberate duplicate rows are appended.",
+    "columns": {
+      "admission_id": "Synthetic admission identifier.",
+      "patient_id": "Foreign key to patients.patient_id; a few orphan values injected.",
+      "admission_date": "Admission date.",
+      "discharge_date": "Discharge date; some invalid date ordering injected.",
+      "admission_type": "Emergency, Elective, Transfer.",
+      "department": "Hospital department; inconsistent labels deliberately injected.",
+      "bed_type": "General, ICU, Observation; some missing values injected.",
+      "length_of_stay": "LOS in days; some negative values injected."
+    }
+  },
+  "readmissions.csv": {
+    "grain": "One row per generated 30-day readmission event.",
+    "columns": {
+      "readmission_id": "Readmission identifier.",
+      "original_admission_id": "Foreign key to admissions.admission_id; some orphan values injected.",
+      "days_since_discharge": "Days after discharge; mostly 1-30, with some >30 dirty values.",
+      "reason_code": "Synthetic readmission reason."
+    }
+  },
+  "staffing.csv": {
+    "grain": "One row per date \u00d7 department \u00d7 shift.",
+    "columns": {
+      "date": "Calendar date.",
+      "department": "Department; some inconsistent labels injected.",
+      "shift": "Day, Evening, Night.",
+      "staff_count": "Staff on shift; some zero values injected.",
+      "patient_count": "Patients handled/on census; some missing values injected."
+    }
+  },
+  "costs.csv": {
+    "grain": "One row per admission before deliberate orphan rows.",
+    "columns": {
+      "admission_id": "Foreign key to admissions.admission_id.",
+      "billed_amount": "Synthetic billed amount.",
+      "insurance_covered_amount": "Amount covered by payer; some missing values injected.",
+      "out_of_pocket": "Patient responsibility; some impossible values injected."
+    }
+  }
+}

@@ -1,0 +1,11 @@
+department,total_staff,total_patients,patient_to_staff_ratio
+Emergency,34672.0,158240.0,4.56
+General Medicine,30037.0,119365.0,3.97
+Cardiology,24851.0,84658.0,3.41
+Pulmonology,19147.0,65366.0,3.41
+Orthopedics,22021.0,71581.0,3.25
+Gastroenterology,16878.0,53299.0,3.16
+Neurology,19573.0,61100.0,3.12
+Surgery,24837.0,77337.0,3.11
+Nephrology,16985.0,50085.0,2.95
+Oncology,19739.0,55365.0,2.8

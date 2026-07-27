@@ -1,0 +1,11 @@
+department,admissions_with_cost_per_day,avg_billed_cost_per_day
+Oncology,7380,4662.91
+Surgery,7161,4619.13
+Cardiology,13213,4036.94
+Orthopedics,12081,3871.55
+Neurology,8494,3440.25
+Nephrology,5987,3417.71
+Gastroenterology,7207,3223.45
+Emergency,29777,2977.07
+Pulmonology,8403,2790.03
+General Medicine,20277,2642.32

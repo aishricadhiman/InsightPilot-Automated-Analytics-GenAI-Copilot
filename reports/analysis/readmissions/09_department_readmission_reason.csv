@@ -1,0 +1,61 @@
+department,readmission_reason,readmissions
+Cardiology,Clinical deterioration,405
+Cardiology,Infection,237
+Cardiology,Unplanned follow-up,234
+Cardiology,Post-operative complication,160
+Cardiology,Medication issue,156
+Cardiology,Other,109
+Emergency,Clinical deterioration,1083
+Emergency,Infection,660
+Emergency,Unplanned follow-up,650
+Emergency,Medication issue,447
+Emergency,Post-operative complication,443
+Emergency,Other,297
+Gastroenterology,Clinical deterioration,226
+Gastroenterology,Unplanned follow-up,124
+Gastroenterology,Infection,117
+Gastroenterology,Post-operative complication,109
+Gastroenterology,Medication issue,109
+Gastroenterology,Other,48
+General Medicine,Clinical deterioration,583
+General Medicine,Unplanned follow-up,380
+General Medicine,Infection,363
+General Medicine,Post-operative complication,290
+General Medicine,Medication issue,262
+General Medicine,Other,176
+Nephrology,Clinical deterioration,174
+Nephrology,Infection,106
+Nephrology,Unplanned follow-up,105
+Nephrology,Medication issue,88
+Nephrology,Post-operative complication,82
+Nephrology,Other,47
+Neurology,Clinical deterioration,287
+Neurology,Infection,158
+Neurology,Unplanned follow-up,147
+Neurology,Post-operative complication,115
+Neurology,Medication issue,112
+Neurology,Other,80
+Oncology,Clinical deterioration,203
+Oncology,Unplanned follow-up,126
+Oncology,Infection,123
+Oncology,Post-operative complication,107
+Oncology,Medication issue,90
+Oncology,Other,71
+Orthopedics,Clinical deterioration,364
+Orthopedics,Infection,220
+Orthopedics,Unplanned follow-up,196
+Orthopedics,Medication issue,173
+Orthopedics,Post-operative complication,160
+Orthopedics,Other,100
+Pulmonology,Clinical deterioration,289
+Pulmonology,Unplanned follow-up,184
+Pulmonology,Infection,164
+Pulmonology,Medication issue,128
+Pulmonology,Post-operative complication,127
+Pulmonology,Other,80
+Surgery,Clinical deterioration,210
+Surgery,Infection,127
+Surgery,Unplanned follow-up,122
+Surgery,Medication issue,96
+Surgery,Post-operative complication,90
+Surgery,Other,61

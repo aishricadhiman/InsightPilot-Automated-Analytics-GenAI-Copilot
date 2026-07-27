@@ -1,0 +1,31 @@
+department,shift,total_staff,total_patients,patient_to_staff_ratio
+Emergency,Night,9675.0,45061.0,4.66
+Emergency,Day,13100.0,59567.0,4.55
+Emergency,Evening,11897.0,53612.0,4.51
+General Medicine,Night,8478.0,34135.0,4.03
+General Medicine,Evening,10245.0,40689.0,3.97
+General Medicine,Day,11314.0,44541.0,3.94
+Pulmonology,Night,5320.0,18429.0,3.46
+Pulmonology,Evening,6529.0,22506.0,3.45
+Cardiology,Evening,8437.0,28914.0,3.43
+Cardiology,Night,6997.0,23962.0,3.42
+Cardiology,Day,9417.0,31782.0,3.37
+Pulmonology,Day,7298.0,24431.0,3.35
+Orthopedics,Night,6162.0,20392.0,3.31
+Orthopedics,Evening,7488.0,24238.0,3.24
+Orthopedics,Day,8371.0,26951.0,3.22
+Gastroenterology,Night,4719.0,15139.0,3.21
+Neurology,Night,5490.0,17470.0,3.18
+Gastroenterology,Evening,5751.0,18157.0,3.16
+Surgery,Night,6998.0,22103.0,3.16
+Surgery,Evening,8413.0,26451.0,3.14
+Neurology,Evening,6645.0,20701.0,3.12
+Gastroenterology,Day,6408.0,20003.0,3.12
+Neurology,Day,7438.0,22929.0,3.08
+Surgery,Day,9426.0,28783.0,3.05
+Nephrology,Night,4708.0,14306.0,3.04
+Nephrology,Evening,5730.0,16976.0,2.96
+Nephrology,Day,6547.0,18803.0,2.87
+Oncology,Night,5580.0,15826.0,2.84
+Oncology,Evening,6698.0,18787.0,2.8
+Oncology,Day,7461.0,20752.0,2.78

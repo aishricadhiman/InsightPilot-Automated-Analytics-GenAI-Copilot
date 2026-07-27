@@ -1,0 +1,11 @@
+department,eligible_admissions,readmitted_admissions,readmission_rate_pct
+Emergency,29351.0,3580.0,12.2
+Pulmonology,8265.0,972.0,11.76
+Neurology,8350.0,899.0,10.77
+Gastroenterology,7086.0,733.0,10.34
+General Medicine,19957.0,2054.0,10.29
+Nephrology,5889.0,602.0,10.22
+Orthopedics,11900.0,1213.0,10.19
+Cardiology,12983.0,1301.0,10.02
+Surgery,7044.0,706.0,10.02
+Oncology,7239.0,720.0,9.95
